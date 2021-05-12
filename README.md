@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a project focused on epistasis! 
 - 🌱 I’m currently learning linear algebra
-- 📫 How to reach me: @renee_fonseca on Twitter!
+- 📫 How to reach me: on [Twitter](https://twitter.com/renee_fonseca)!
 - 😄 Pronouns: she/they
 
 <!--
@@ -10,12 +10,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on projects focused on epistasis 
+- 🔭 I’m currently working on a project focused on epistasis!
 - 🌱 I’m currently learning linear algebra
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: on [Twitter](https://twitter.com/renee_fonseca)!
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: ...
 -->
