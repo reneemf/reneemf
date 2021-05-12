@@ -5,7 +5,7 @@
 - 📫 How to reach me: on [Twitter](https://twitter.com/renee_fonseca)!
 - 😄 Pronouns: she/they
 
-[![Renée's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneemf&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Renée's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneemf&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
