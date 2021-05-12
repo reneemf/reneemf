@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 🔭 I’m currently working on projects focused on epistasis 
+- 🔭 I’m currently working on a project focused on epistasis! 
 - 🌱 I’m currently learning linear algebra
 - 📫 How to reach me: @renee_fonseca on Twitter!
 - 😄 Pronouns: she/they
