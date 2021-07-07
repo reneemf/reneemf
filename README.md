@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 [![Renée's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneemf&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭  I’m currently working on a project focused on epistasis! 
+- 🔭  I’m currently working on projects focused on epistasis and polygenic risk scores! 
 - 🌱    I’m currently learning linear algebra
 - 📫  How to reach me: on [Twitter](https://twitter.com/renee_fonseca)!
 - 😄  Pronouns: she/they
